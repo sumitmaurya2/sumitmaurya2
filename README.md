@@ -7,180 +7,127 @@
 <!-- ======================= TYPING EFFECT ======================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00d1ff&center=true&vCenter=true&width=900&lines=AI+%26+Full+Stack+Developer;Machine+Learning+Enthusiast;MERN+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Building+AI-Powered+Applications"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00d1ff&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Data+Science+%7C+AI+%7C+Generative+AI;Java+%7C+Python+%7C+C%2B%2B;React.js+%7C+Next.js+%7C+Node.js;MongoDB+%7C+MySQL;Consistency+%3E+Motivation"/>
 </p>
 
 ---
 
 # 👋 About Me
 
-🎓 Final Year Computer Science Undergraduate
+Full Stack Developer transitioning into Data Science, AI Engineering, and Generative AI, focused on building scalable and performance-driven applications.
 
-I'm passionate about building intelligent applications by combining **Artificial Intelligence** with **Full Stack Development**.
+I believe in clean architecture, strong fundamentals, and continuous improvement.
 
-Currently focused on developing scalable AI-powered products using Machine Learning, LLMs, and the MERN stack while continuously improving problem-solving and software engineering skills.
-
-- 🤖 Exploring AI & Machine Learning
-- 🌐 Building Full Stack Applications
-- 🚀 Interested in Generative AI
-- 💡 Love solving real-world problems
-- 📚 Always learning new technologies
+⚡ Discipline > Motivation  
+🚀 Growth Mindset  
+🎯 Long-Term Mastery  
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/sumit-maurya-34798032a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/sumit_maurya1/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/sumitkushcroh">
-<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://hackerrank.com/profile/sumitkushwaham01">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/sumit-maurya-34798032a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/sumit_maurya1/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/sumitkushcroh">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  <a href="hackerrank.com/profile/sumitkushwaham01">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 💻 Languages
+# 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+## 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
 
----
-
-# 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
----
-
-# ⚙️ Backend
-
+## ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
----
-
-# 🤖 AI / Machine Learning
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
-# 🗄 Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+## 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
----
+## 📊 Data Science & Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge&logo=xgboost&logoColor=white)
 
-# 🛠 Tools
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 🤖 AI & Generative AI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
 # 🚀 Featured Projects
 
-### 🛒 SmartCart AI
-AI-powered MERN e-commerce platform with intelligent product recommendations.
-
-### 💳 Credit Card Fraud Detection
-Machine Learning project using XGBoost, SMOTE, feature engineering, and explainable AI techniques.
-
-### 🤝 BuildTogether
-A collaboration platform for developers to build projects together.
-
-### 🏡 Spot4Stay
-Property listing platform built using Node.js, Express.js, MongoDB, Firebase Authentication, and Tailwind CSS.
+- **[Veritas AI](https://vrtai.vercel.app)** — Financial Fraud Detection & Risk Analysis: full-stack AI app with XGBoost/Random Forest/Logistic Regression models (95% accuracy, 0.973 ROC-AUC), React + TypeScript dashboard, FastAPI ML microservice
+- **[Cognova AI](https://cognova.streamlit.app)** — Multimodal Intelligence & Knowledge Assistant: transcribes and summarizes audio/video with Whisper & Sarvam AI, RAG chat via LangChain + ChromaDB
+- **[BuildTogether](https://builld2gether.vercel.app)** — Real-time developer collaboration platform (MERN + Firebase + Socket.io)
+- **Locshare** — Localhost tunneling tool (ngrok alternative) built with Node.js, WebSocket, Redis, and a React dashboard
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitmaurya2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumitmaurya2&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitmaurya2&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitmaurya2&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Activity
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitmaurya2&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitmaurya2&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🧠 Competitive Programming
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitmaurya2&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://leetcard.jacoblin.cool/sumit_maurya1?theme=dark&font=Fira+Code&ext=contest"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 👁️ Profile Visitors
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sumitmaurya2&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-
-</p>
-
----
-
-# 🧠 LeetCode
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/sumit_maurya1?theme=dark&font=Fira+Code&ext=contest"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sumitmaurya2&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
+  <img src="https://komarev.com/ghpvc/?username=sumitmaurya2&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:113f67,50:1f4f80,100:0a0f2c&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:113f67,50:1f4f80,100:0a0f2c&height=100&section=footer"/>
 </p>
