@@ -122,21 +122,6 @@ My work sits at the intersection of three areas:
 
 # 🚀 Featured Projects
 
-### 🛡️ [Veritas AI](https://vrtai.vercel.app) — Financial Fraud Detection & Risk Analysis
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00d1ff?style=flat-square&logo=vercel&logoColor=black)](https://vrtai.vercel.app)
-[![Source](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github)](https://github.com/sumitmaurya2/Veritas-AI-Powered-Financial-Fraud-Detection-Risk-Analysis-System)
-
-A multi-service fraud detection app: React + TypeScript dashboard, Node.js/Express API layer, and a separate FastAPI microservice for model inference.
-
-- 📈 **0.973 ROC-AUC** on a held-out test set; **76% fraud recall** at a tuned 0.30 threshold on a heavily imbalanced dataset (2.2% fraud)
-- 🧹 Prepared 50,000+ transactions, engineered behavioural features (new device, location mismatch, night activity, amount ratio) and handled imbalance with **SMOTE** on training data only
-- 🔍 Compared Logistic Regression, Random Forest and **XGBoost**, and explained predictions with **SHAP**
-- ⚙️ Returns a fraud/safe label, risk score and confidence through a FastAPI endpoint
-
-`Python` `XGBoost` `SHAP` `FastAPI` `React` `TypeScript` `Node.js` `MongoDB`
-
----
-
 ### 🧠 [Cognova AI](https://cognovaai.vercel.app) — AI-Powered Knowledge & Insights Platform
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00d1ff?style=flat-square&logo=vercel&logoColor=black)](https://cognovaai.vercel.app)
 [![Source](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github)](https://github.com/sumitmaurya2/Cognova-AI)
@@ -162,6 +147,21 @@ A full-stack MERN platform where developers post projects, explore opportunities
 - 🔍 Project search/explore and public developer profiles, backed by REST APIs and MongoDB models
 
 `React` `Node.js` `Express` `MongoDB` `Redis` `Firebase` `Socket.io`
+
+---
+
+### 🛡️ [Veritas AI](https://vrtai.vercel.app) — Financial Fraud Detection & Risk Analysis
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00d1ff?style=flat-square&logo=vercel&logoColor=black)](https://vrtai.vercel.app)
+[![Source](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github)](https://github.com/sumitmaurya2/Veritas-AI-Powered-Financial-Fraud-Detection-Risk-Analysis-System)
+
+A multi-service fraud detection app: React + TypeScript dashboard, Node.js/Express API layer, and a separate FastAPI microservice for model inference.
+
+- 📈 **0.973 ROC-AUC** on a held-out test set; **76% fraud recall** at a tuned 0.30 threshold on a heavily imbalanced dataset (2.2% fraud)
+- 🧹 Prepared 50,000+ transactions, engineered behavioural features (new device, location mismatch, night activity, amount ratio) and handled imbalance with **SMOTE** on training data only
+- 🔍 Compared Logistic Regression, Random Forest and **XGBoost**, and explained predictions with **SHAP**
+- ⚙️ Returns a fraud/safe label, risk score and confidence through a FastAPI endpoint
+
+`Python` `XGBoost` `SHAP` `FastAPI` `React` `TypeScript` `Node.js` `MongoDB`
 
 ---
 
