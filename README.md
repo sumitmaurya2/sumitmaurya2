@@ -224,9 +224,9 @@ Cleaned and encoded a 614-record loan dataset, then trained Logistic Regression 
 # 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitmaurya2&theme=tokyo-night&hide_border=true"/>
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=sumitmaurya2&theme=tokyo-night&hide_border=true](https://github-act-graph.rodriaum.com/graph?username=sumitmaurya2&theme=tokyo-night&hide_border=true)"/>
 </p>
-
+zzz
 ---
 
 # 🧠 Competitive Programming
